@@ -1,0 +1,2 @@
+| payment_id | timestamp | direction | amount | counterparty | payment_type | correspondent_client | time_specific | deadline | event |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

@@ -1,0 +1,4 @@
+timestamp,payment_id,rule,severity,observed,threshold
+2026-09-30 12:00:00,,throughput_lag,amber,0.1451360119,0.2500000000
+2026-09-30 15:00:00,,throughput_lag,amber,0.4574931054,0.6000000000
+2026-09-30 17:00:00,,throughput_lag,amber,0.8836510234,0.9000000000
