@@ -1,0 +1,4 @@
+scenario,counterbalancing_capacity,survival_days,censored,peak_net_need,maximum_shortfall
+idiosyncratic,70550.0000000000,365,True,32969.0644160918,0.0000000000
+market_wide,62050.0000000000,365,True,47666.5537797300,0.0000000000
+combined,53550.0000000000,64,False,66292.4425517365,12742.4425517365

@@ -1,0 +1,17 @@
+| metric | value |
+| :-: | :-: |
+| assets_usd_millions | 120,000.000000 |
+| position_count | 912.000000 |
+| lcr_percent | 154.197173 |
+| nsfr_percent | 159.927231 |
+| hqla_usd_millions | 33,100.000000 |
+| net_outflows_usd_millions | 21,466.022557 |
+| asf_usd_millions | 77,450.261669 |
+| rsf_usd_millions | 48,428.439037 |
+| collateral_capacity_usd_millions | 41,700.000000 |
+| combined_survival_days | 64.000000 |
+| combined_shortfall_usd_millions | 12,742.442552 |
+| intraday_usage_usd_millions | 2,230.807554 |
+| wholesale_concentration_percent | 48.181818 |
+| data_quality_exceptions | 0.000000 |
+| limit_breaches | 2.000000 |

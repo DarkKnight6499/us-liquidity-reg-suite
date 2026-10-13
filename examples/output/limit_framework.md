@@ -1,0 +1,7 @@
+| kri | direction | green_threshold | red_threshold | owner | topic | source | parameter_status |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| LCR | minimum | 1.200000 | 1.000000 | Treasurer | Liquidity Coverage Ratio Examination Procedures | https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf | stylized internal appetite |
+| NSFR | minimum | 1.100000 | 1.000000 | Treasurer | Net Stable Funding Ratio Examination Procedures | https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf | stylized internal appetite |
+| ILST survival days | minimum | 90.000000 | 30.000000 | Chief Risk Officer | Contingency Funding Plans | https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf | stylized internal appetite |
+| Wholesale funding concentration | maximum | 0.300000 | 0.400000 | Funding Desk | Funding Diversification | https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf | stylized internal appetite |
+| Intraday usage | maximum | 0.700000 | 0.900000 | Payments Head | Intraday Liquidity and Collateral Management | https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf | stylized internal appetite |

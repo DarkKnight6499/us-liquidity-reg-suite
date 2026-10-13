@@ -1,0 +1,14 @@
+| metric | value |
+| :-: | :-: |
+| hqla | 33,100.000000 |
+| level1 | 27,000.000000 |
+| level2a | 5,100.000000 |
+| level2b | 1,000.000000 |
+| unadjusted_excess | 0.000000 |
+| adjusted_excess | 0.000000 |
+| outflows | 28,206.430722 |
+| inflows | 11,933.345823 |
+| allowed_inflows | 11,933.345823 |
+| mismatch_addon | 5,192.937657 |
+| net_outflows | 21,466.022557 |
+| lcr | 1.541972 |

@@ -1,0 +1,2 @@
+| position_id | rule | detail |
+| :-: | :-: | :-: |

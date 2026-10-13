@@ -1,0 +1,6 @@
+kri,direction,green_threshold,red_threshold,owner,topic,source,parameter_status
+LCR,minimum,1.2000000000,1.0000000000,Treasurer,Liquidity Coverage Ratio Examination Procedures,https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf,stylized internal appetite
+NSFR,minimum,1.1000000000,1.0000000000,Treasurer,Net Stable Funding Ratio Examination Procedures,https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf,stylized internal appetite
+ILST survival days,minimum,90.0000000000,30.0000000000,Chief Risk Officer,Contingency Funding Plans,https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf,stylized internal appetite
+Wholesale funding concentration,maximum,0.3000000000,0.4000000000,Funding Desk,Funding Diversification,https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf,stylized internal appetite
+Intraday usage,maximum,0.7000000000,0.9000000000,Payments Head,Intraday Liquidity and Collateral Management,https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/liquidity/pub-ch-liquidity.pdf,stylized internal appetite

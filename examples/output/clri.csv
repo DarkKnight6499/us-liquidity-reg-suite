@@ -1,0 +1,229 @@
+position_id,exposure_type,trigger,size,earliest_day,latest_day
+P00172,refinancing,market closure,5.6998521547,20,20
+P00173,refinancing,market closure,12.2290798889,20,20
+P00174,refinancing,market closure,19.4032674072,20,20
+P00175,refinancing,market closure,326.6240291659,20,20
+P00176,refinancing,market closure,671.2536933242,20,20
+P00177,refinancing,market closure,277.9091472132,20,20
+P00178,refinancing,market closure,27.6383233402,20,20
+P00179,refinancing,market closure,86.5673533293,20,20
+P00180,refinancing,market closure,396.9317465520,20,20
+P00181,refinancing,market closure,323.0949372842,20,20
+P00182,refinancing,market closure,63.3889502586,20,20
+P00183,refinancing,market closure,639.2596200816,20,20
+P00196,refinancing,market closure,268.6981113391,20,20
+P00197,refinancing,market closure,187.1008657950,20,20
+P00198,refinancing,market closure,59.3994860983,20,20
+P00199,refinancing,market closure,98.2817671909,20,20
+P00200,refinancing,market closure,180.6350474104,20,20
+P00201,refinancing,market closure,54.3908585309,20,20
+P00202,refinancing,market closure,338.9630877507,20,20
+P00203,refinancing,market closure,682.1037088535,20,20
+P00204,refinancing,market closure,445.7402854861,20,20
+P00205,refinancing,market closure,2.3338619890,20,20
+P00206,refinancing,market closure,290.5968530361,20,20
+P00207,refinancing,market closure,791.7560665201,20,20
+P00220,refinancing,market closure,86.8643143246,20,20
+P00221,refinancing,market closure,89.2107325615,20,20
+P00222,refinancing,market closure,275.5872185250,20,20
+P00223,refinancing,market closure,40.7201593429,20,20
+P00224,refinancing,market closure,91.0524985325,20,20
+P00225,refinancing,market closure,39.8076712854,20,20
+P00226,refinancing,market closure,13.2300696388,20,20
+P00227,refinancing,market closure,39.0331657716,20,20
+P00228,refinancing,market closure,131.0101404625,20,20
+P00229,refinancing,market closure,65.2864548330,20,20
+P00230,refinancing,market closure,83.1537295716,20,20
+P00231,refinancing,market closure,45.0438451507,20,20
+P00635,refinancing,market closure,868.0648937235,180,180
+P00636,refinancing,market closure,767.5132644430,30,30
+P00637,refinancing,market closure,1310.8154905638,180,180
+P00638,refinancing,market closure,1072.6788792592,180,180
+P00639,refinancing,market closure,460.2665640455,15,15
+P00641,refinancing,market closure,3.6016536220,90,90
+P00642,refinancing,market closure,414.8577734291,30,30
+P00643,refinancing,market closure,25.7858416294,30,30
+P00644,refinancing,market closure,545.3544171942,180,180
+P00646,refinancing,market closure,128.1470098681,15,15
+P00647,refinancing,market closure,495.5764591476,30,30
+P00648,refinancing,market closure,42.4251009502,365,365
+P00649,refinancing,market closure,551.7248516576,30,30
+P00650,refinancing,market closure,297.3792490672,90,90
+P00651,refinancing,market closure,120.2574645492,90,90
+P00652,refinancing,market closure,733.6734286790,15,15
+P00653,refinancing,market closure,326.3894070406,15,15
+P00654,refinancing,market closure,640.2949480096,180,180
+P00655,refinancing,market closure,814.5550150029,90,90
+P00656,refinancing,market closure,164.4637124717,15,15
+P00657,refinancing,market closure,210.2952182903,15,15
+P00658,refinancing,market closure,473.8078001653,30,30
+P00659,refinancing,market closure,371.1229918133,30,30
+P00661,refinancing,market closure,181.1126213732,90,90
+P00663,refinancing,market closure,318.4092191546,365,365
+P00664,refinancing,market closure,144.3034027830,30,30
+P00665,refinancing,market closure,397.4360797012,90,90
+P00666,refinancing,market closure,276.4715908116,180,180
+P00667,refinancing,market closure,154.4306610671,180,180
+P00668,refinancing,market closure,343.6184335882,90,90
+P00670,refinancing,market closure,1.7340374898,180,180
+P00671,refinancing,market closure,254.0051704444,180,180
+P00672,contingent_margin,downgrade or valuation shock,7.7991297495,1,30
+P00673,contingent_margin,downgrade or valuation shock,52.6014024478,1,30
+P00674,contingent_margin,downgrade or valuation shock,189.8167470018,1,30
+P00675,contingent_margin,downgrade or valuation shock,96.6619712404,1,30
+P00676,contingent_margin,downgrade or valuation shock,135.6858181108,1,30
+P00677,contingent_margin,downgrade or valuation shock,39.7842589938,1,30
+P00678,contingent_margin,downgrade or valuation shock,0.6840692497,1,30
+P00679,contingent_margin,downgrade or valuation shock,15.4474770516,1,30
+P00680,contingent_margin,downgrade or valuation shock,57.8733963888,1,30
+P00681,contingent_margin,downgrade or valuation shock,71.0279469812,1,30
+P00682,contingent_margin,downgrade or valuation shock,81.8191113546,1,30
+P00683,contingent_margin,downgrade or valuation shock,44.6688573392,1,30
+P00684,contingent_margin,downgrade or valuation shock,23.6692646698,1,30
+P00685,contingent_margin,downgrade or valuation shock,2.8773314235,1,30
+P00686,contingent_margin,downgrade or valuation shock,78.2642063398,1,30
+P00687,contingent_margin,downgrade or valuation shock,20.9756716914,1,30
+P00688,contingent_margin,downgrade or valuation shock,15.8572817130,1,30
+P00689,contingent_margin,downgrade or valuation shock,22.8001262236,1,30
+P00690,contingent_margin,downgrade or valuation shock,5.1498076409,1,30
+P00691,contingent_margin,downgrade or valuation shock,94.0587808361,1,30
+P00692,contingent_margin,downgrade or valuation shock,5.4416396356,1,30
+P00693,contingent_margin,downgrade or valuation shock,29.0912551405,1,30
+P00694,contingent_margin,downgrade or valuation shock,57.8397391268,1,30
+P00695,contingent_margin,downgrade or valuation shock,99.1929222730,1,30
+P00696,contingent_margin,downgrade or valuation shock,44.9828473458,1,30
+P00697,contingent_margin,downgrade or valuation shock,87.2158817848,1,30
+P00698,contingent_margin,downgrade or valuation shock,25.6749661732,1,30
+P00699,contingent_margin,downgrade or valuation shock,13.6370494711,1,30
+P00700,contingent_margin,downgrade or valuation shock,3.6914203700,1,30
+P00701,contingent_margin,downgrade or valuation shock,52.6980557056,1,30
+P00702,contingent_margin,downgrade or valuation shock,0.1964676226,1,30
+P00703,contingent_margin,downgrade or valuation shock,136.2448471888,1,30
+P00704,contingent_margin,downgrade or valuation shock,51.5495572287,1,30
+P00705,contingent_margin,downgrade or valuation shock,139.9869225184,1,30
+P00706,contingent_margin,downgrade or valuation shock,33.9483303044,1,30
+P00707,contingent_margin,downgrade or valuation shock,37.2149663710,1,30
+P00708,contingent_margin,downgrade or valuation shock,2.1637822004,1,30
+P00709,contingent_margin,downgrade or valuation shock,60.6209637276,1,30
+P00710,contingent_margin,downgrade or valuation shock,47.2947188116,1,30
+P00711,contingent_margin,downgrade or valuation shock,13.7910105531,1,30
+P00792,off_balance,borrower liquidity demand,13.5780428212,1,30
+P00793,off_balance,borrower liquidity demand,527.5024836197,1,30
+P00794,off_balance,borrower liquidity demand,1100.8258438456,1,30
+P00795,off_balance,borrower liquidity demand,149.8289287581,1,30
+P00796,off_balance,borrower liquidity demand,288.8549681861,1,30
+P00797,off_balance,borrower liquidity demand,124.2620892043,1,30
+P00798,off_balance,borrower liquidity demand,104.5244808609,1,30
+P00799,off_balance,borrower liquidity demand,31.6563795336,1,30
+P00800,off_balance,borrower liquidity demand,10.8037681763,1,30
+P00801,off_balance,borrower liquidity demand,362.1278654905,1,30
+P00802,off_balance,borrower liquidity demand,1005.5778170233,1,30
+P00803,off_balance,borrower liquidity demand,434.1038287721,1,30
+P00804,off_balance,borrower liquidity demand,420.4605333353,1,30
+P00805,off_balance,borrower liquidity demand,135.0613995332,1,30
+P00806,off_balance,borrower liquidity demand,563.7670626529,1,30
+P00807,off_balance,borrower liquidity demand,145.7668512187,1,30
+P00808,off_balance,borrower liquidity demand,168.3810334431,1,30
+P00809,off_balance,borrower liquidity demand,7.1432398183,1,30
+P00810,off_balance,borrower liquidity demand,424.3567186627,1,30
+P00811,off_balance,borrower liquidity demand,165.7245622461,1,30
+P00812,off_balance,borrower liquidity demand,429.5565668929,1,30
+P00813,off_balance,borrower liquidity demand,89.8034737873,1,30
+P00814,off_balance,borrower liquidity demand,609.1620526878,1,30
+P00815,off_balance,borrower liquidity demand,446.4587329740,1,30
+P00816,off_balance,borrower liquidity demand,212.3333603166,1,30
+P00817,off_balance,borrower liquidity demand,2903.2329121775,1,30
+P00818,off_balance,borrower liquidity demand,233.2091386536,1,30
+P00819,off_balance,borrower liquidity demand,52.7812195871,1,30
+P00820,off_balance,borrower liquidity demand,122.6792495855,1,30
+P00821,off_balance,borrower liquidity demand,229.0212426344,1,30
+P00822,off_balance,borrower liquidity demand,176.5742247610,1,30
+P00823,off_balance,borrower liquidity demand,163.6457158291,1,30
+P00824,off_balance,borrower liquidity demand,781.9707016529,1,30
+P00825,off_balance,borrower liquidity demand,316.2498877968,1,30
+P00826,off_balance,borrower liquidity demand,272.9977727535,1,30
+P00827,off_balance,borrower liquidity demand,272.9725460053,1,30
+P00828,off_balance,borrower liquidity demand,379.3708202784,1,30
+P00829,off_balance,borrower liquidity demand,26.9372619240,1,30
+P00830,off_balance,borrower liquidity demand,78.2281205134,1,30
+P00831,off_balance,borrower liquidity demand,18.5071019867,1,30
+P00832,off_balance,borrower liquidity demand,122.1581861239,1,30
+P00833,off_balance,borrower liquidity demand,89.4982742123,1,30
+P00834,off_balance,borrower liquidity demand,7.0655657377,1,30
+P00835,off_balance,borrower liquidity demand,83.5587202723,1,30
+P00836,off_balance,borrower liquidity demand,55.4786575688,1,30
+P00837,off_balance,borrower liquidity demand,52.5583024428,1,30
+P00838,off_balance,borrower liquidity demand,20.8614389640,1,30
+P00839,off_balance,borrower liquidity demand,86.0240392330,1,30
+P00840,off_balance,borrower liquidity demand,30.9682155903,1,30
+P00841,off_balance,borrower liquidity demand,12.0871098584,1,30
+P00842,off_balance,borrower liquidity demand,29.5511213028,1,30
+P00843,off_balance,borrower liquidity demand,6.6079807235,1,30
+P00844,off_balance,borrower liquidity demand,28.9830750506,1,30
+P00845,off_balance,borrower liquidity demand,145.7310106263,1,30
+P00846,off_balance,borrower liquidity demand,115.9649789906,1,30
+P00847,off_balance,borrower liquidity demand,20.7319290461,1,30
+P00848,off_balance,borrower liquidity demand,56.8119334924,1,30
+P00849,off_balance,borrower liquidity demand,251.4009287660,1,30
+P00850,off_balance,borrower liquidity demand,62.7568675191,1,30
+P00851,off_balance,borrower liquidity demand,200.6479426488,1,30
+P00852,off_balance,borrower liquidity demand,62.6896425894,1,30
+P00853,off_balance,borrower liquidity demand,107.2160722031,1,30
+P00854,off_balance,borrower liquidity demand,62.7108882081,1,30
+P00855,off_balance,borrower liquidity demand,92.0257190104,1,30
+P00856,off_balance,borrower liquidity demand,44.8796707648,1,30
+P00857,off_balance,borrower liquidity demand,263.5328720617,1,30
+P00858,off_balance,borrower liquidity demand,20.6921619389,1,30
+P00859,off_balance,borrower liquidity demand,56.1496386265,1,30
+P00860,off_balance,borrower liquidity demand,235.2145647880,1,30
+P00861,off_balance,borrower liquidity demand,71.1338715891,1,30
+P00862,off_balance,borrower liquidity demand,40.2276465688,1,30
+P00863,off_balance,borrower liquidity demand,89.1386178786,1,30
+P00864,off_balance,borrower liquidity demand,57.7879126120,1,30
+P00865,off_balance,borrower liquidity demand,142.2787866560,1,30
+P00866,off_balance,borrower liquidity demand,435.5101273852,1,30
+P00867,off_balance,borrower liquidity demand,14.2564223776,1,30
+P00868,off_balance,borrower liquidity demand,407.0367040215,1,30
+P00869,off_balance,borrower liquidity demand,231.9355195876,1,30
+P00870,off_balance,borrower liquidity demand,25.5493143853,1,30
+P00871,off_balance,borrower liquidity demand,60.5875685776,1,30
+P00872,off_balance,borrower liquidity demand,13.7690803741,1,30
+P00873,off_balance,borrower liquidity demand,104.6089365360,1,30
+P00874,off_balance,borrower liquidity demand,1.3442855833,1,30
+P00875,off_balance,borrower liquidity demand,105.0271525641,1,30
+P00876,off_balance,borrower liquidity demand,44.8183412144,1,30
+P00877,off_balance,borrower liquidity demand,18.9116390722,1,30
+P00878,off_balance,borrower liquidity demand,131.4413388599,1,30
+P00879,off_balance,borrower liquidity demand,65.3018172121,1,30
+P00880,off_balance,borrower liquidity demand,37.8295098277,1,30
+P00881,off_balance,borrower liquidity demand,130.7069915311,1,30
+P00882,off_balance,borrower liquidity demand,27.6620966856,1,30
+P00883,off_balance,borrower liquidity demand,47.2027731448,1,30
+P00884,off_balance,borrower liquidity demand,1.0772416846,1,30
+P00885,off_balance,borrower liquidity demand,45.9608569387,1,30
+P00886,off_balance,borrower liquidity demand,25.3953955791,1,30
+P00887,off_balance,borrower liquidity demand,27.6831988327,1,30
+P00888,off_balance,borrower liquidity demand,17.8656450428,1,30
+P00889,off_balance,borrower liquidity demand,15.2738506253,1,30
+P00890,off_balance,borrower liquidity demand,45.1977010041,1,30
+P00891,off_balance,borrower liquidity demand,30.6436780005,1,30
+P00892,off_balance,borrower liquidity demand,65.2487847989,1,30
+P00893,off_balance,borrower liquidity demand,49.1758300430,1,30
+P00894,off_balance,borrower liquidity demand,26.1978657326,1,30
+P00895,off_balance,borrower liquidity demand,27.7114694050,1,30
+P00896,off_balance,borrower liquidity demand,54.0403879842,1,30
+P00897,off_balance,borrower liquidity demand,77.5795214998,1,30
+P00898,off_balance,borrower liquidity demand,1.4978865413,1,30
+P00899,off_balance,borrower liquidity demand,3.0022833303,1,30
+P00900,off_balance,borrower liquidity demand,3.0152139582,1,30
+P00901,off_balance,borrower liquidity demand,97.4578777066,1,30
+P00902,off_balance,borrower liquidity demand,6.4073898945,1,30
+P00903,off_balance,borrower liquidity demand,22.8280996299,1,30
+P00904,off_balance,borrower liquidity demand,89.5808136116,1,30
+P00905,off_balance,borrower liquidity demand,36.8183161176,1,30
+P00906,off_balance,borrower liquidity demand,0.6308671944,1,30
+P00907,off_balance,borrower liquidity demand,76.7588473099,1,30
+P00908,off_balance,borrower liquidity demand,33.8769798230,1,30
+P00909,off_balance,borrower liquidity demand,126.2392114560,1,30
+P00910,off_balance,borrower liquidity demand,255.0850482343,1,30
+P00911,off_balance,borrower liquidity demand,9.1257754156,1,30

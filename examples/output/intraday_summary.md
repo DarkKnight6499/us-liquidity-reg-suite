@@ -1,0 +1,13 @@
+| metric | value |
+| :-: | :-: |
+| maximum_usage | 2,230.807554 |
+| maximum_positive_position | 0.000000 |
+| available_at_start | 12,000.000000 |
+| opening_cash | 12,000.000000 |
+| pledged_collateral | 0.000000 |
+| credit_lines | 0.000000 |
+| total_sent | 5,774.502634 |
+| total_received | 4,508.029112 |
+| time_specific_obligations | 674.115591 |
+| late_obligations | 0.000000 |
+| resource_shortfall | 0.000000 |
